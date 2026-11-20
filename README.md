@@ -1,7 +1,7 @@
-# mig21cz4038
-MiG-21 CZ 4038 Project
+# MiG-21 CZ 4038 Project 
+These pages document the project to turn my MiG-21MF into a DCS flight simulator.
 
-## Objectives
+## Project Objectives
 
 - To design and built a MiG-21MF simulator based on a real plane.
 - To make functional the hydraulics for the air brakes, the nose cone and possibly the front	landing gear.
