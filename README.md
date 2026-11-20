@@ -8,7 +8,7 @@ These pages document the project to turn my MiG-21MF into a DCS flight simulator
 - To have the engine spin by using the starter motor.
 - To understand the workings of the flight computer.
 - To make the radios operational.
-- To display the inner workings	of the MiG-21 Airframe.
+- To display the inner workings	of the MiG-21 airframe.
 - To have some signage describing the plane to guests.
 - To document various aspects	of the MiG on-line.
 - To document various aspects	of the project on-line.
