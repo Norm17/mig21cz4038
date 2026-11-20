@@ -1,4 +1,4 @@
-# MiG-21 CZ 4038 Project 
+# MiG-21MF CZ 4038 Project 
 These pages document the project to turn my MiG-21MF into a DCS flight simulator.
 
 ## Project Objectives
