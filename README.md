@@ -1,2 +1,16 @@
 # mig21cz4038
 MiG-21 CZ 4038 Project
+
+## Objectives
+
+- To design and built a MiG-21MF simulator based on a real plane.
+- To make functional the hydraulics for the air brakes, the nose cone and possibly the front	landing gear.
+- To have the engine spin by using the starter motor.
+- To understand the workings of the flight computer.
+- To make the radios operational.
+- To display the inner workings	of the MiG-21 Airframe.
+- To have some signage describing the plane to guests.
+- To document various aspects	of the MiG on-line.
+- To document various aspects	of the project on-line.
+- To make a home simpit for DCS.
+- To make a home simpit for MSFS.
