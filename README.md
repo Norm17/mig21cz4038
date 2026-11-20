@@ -16,5 +16,5 @@ These pages document the project to turn my MiG-21MF into a DCS flight simulator
 - To make a home simpit for MSFS.
 
 
-![Center](assets/Center_Overview.jpeg)
+![Center](images/Center_Overview.jpeg)
 mig21cz4038/tree/assets/Overview Center.jpeg
